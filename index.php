@@ -1,3 +1,3 @@
 <?php
-  echp "test";
+  echp 'test';
 ?>
